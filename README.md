@@ -71,11 +71,6 @@ Become a better friend and send your messages on time.
 
 Easily backup your data and restore anytime you want.
 
-### Ad-free
-
-Beautifully simple and completely ad-free messenger for you.
-
-For more queries contact us at jai135g@gmail.com and don't forget to check out our other apps!
 
 
 <a href="https://play.google.com/store/apps/details?id=com.innovate.replify&hl=en"><img src="https://raw.githubusercontent.com/vidit135g/Notes-Central/master/screenshots/google-play-badge.png" width="300" height="120"/></a>
